@@ -43,7 +43,26 @@ header {
 
 #img-1{
     background-image: url('../img/sneaker1.jpg')
+}
 
+#img-2{
+    background-image: url('../img/sneaker2.jpg')
+}
+
+#img-3{
+    background-image: url('../img/sneaker3.jpg')
+}
+
+#img-4{
+    background-image: url('../img/sneaker4.jpg')
+}
+
+#img-5{
+    background-image: url('../img/sneaker5.jpg')
+}
+
+#img-6{
+    background-image: url('../img/sneaker6.jpg')
 }
 
 footer{
